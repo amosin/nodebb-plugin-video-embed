@@ -11,7 +11,7 @@
   "library": "plugin.js",
   "name": "NodeBB Video embed",
   "nbbpm": {
-    "compatibility": "^1.12.2"
+    "compatibility": "^1.13.4-5"
   },
   "staticDirs": {
     "static": "static"
