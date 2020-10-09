@@ -16,5 +16,5 @@
   "staticDirs": {
     "static": "static"
     },
-  "url": "https://github.com/Jenkler/nodebb-plugin-video-embed"
+  "url": "https://github.com/amosin/nodebb-plugin-video-embed"
 }
