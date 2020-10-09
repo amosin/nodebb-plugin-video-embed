@@ -4,7 +4,7 @@
     "name": "Jenkler IT AB"
   },
   "description": "A plugin that embed movies from links",
-  "homepage": "https://github.com/Jenkler/nodebb-plugin-video-embed",
+  "homepage": "https://github.com/amosin/nodebb-plugin-video-embed",
   "keywords": [
     "nodebb",
     "plugin",
@@ -13,14 +13,14 @@
   "main": "plugin.js",
   "name": "nodebb-plugin-video-embed",
   "nbbpm": {
-    "compatibility": "^1.12.2"
+    "compatibility": "^1.13.4-5"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Jenkler/nodebb-plugin-video-embed.git"
+    "url": "git+https://github.com/amosin/nodebb-plugin-video-embed.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "1.12.2"
+  "version": "1.12.3"
 }
